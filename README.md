@@ -1,11 +1,11 @@
-# Dev simple project
+# Dev simple project
 
 ## Requirements
 
 - `node js` v6.10.2 or later
 - `yarn` v0.24.6 or later
 
-## Init
+## Init
 - `yarn install`
 - `yarn start`
 

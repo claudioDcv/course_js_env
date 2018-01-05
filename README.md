@@ -9,6 +9,6 @@
 - `yarn install`
 - `yarn start`
 
-> created by
+> created by Claudio Rojas
 > git: [claudioDcv](https://github.com/claudioDcv)
 > email: [claudio.dcv@gmail.com](claudio.dcv@gmail.com)
